@@ -53,7 +53,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/micro
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="nullwell-PyTest" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
-  <br>
   <img align="right" alt="nullwell-Monophy" src="https://cdn.discordapp.com/attachments/885241805958938644/1001587867878969414/monophy.gif" />
 </div>
 
