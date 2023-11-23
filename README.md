@@ -9,7 +9,8 @@
 - 💻 No momento tenho como foco me tornar Desenvolvedor RPA, utilizando tecnologias como Python, Selenium, BotCity e UiPath
 - 🌱 Gosto de estudar tecnologia no geral, tenho muito interesse em Back-End, utilizando tecnologias como Python, Django, Flask e SQLAlchemy
 
-<div>
+
+<div align="center">
   <a href="https://github.com/Nullwell47">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nullwell47&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullwell47&layout=compact&langs_count=7&theme=highcontrast"/>
