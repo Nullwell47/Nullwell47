@@ -9,14 +9,15 @@
 - 💻 No momento tenho como foco me tornar Desenvolvedor RPA, utilizando tecnologias como Python, Selenium, BotCity e UiPath
 - 🌱 Gosto de estudar tecnologia no geral, tenho muito interesse em Back-End, utilizando tecnologias como Python, Django, Flask e SQLAlchemy
 
-
+   ##
+  
 <div align="center">
   <a href="https://github.com/Nullwell47">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nullwell47&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullwell47&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-   <div style="display: inline_block"><br>
+   <div align="center" style="display: inline_block"><br>
    <img align="center" alt="nullwell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
    <img align="center" alt="nullwell-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
    <img align="center" alt="nullwell-SqlAlchemy" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"/>
