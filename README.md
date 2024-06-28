@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Emanoel Rosa 👋
 
 <br><div>
-   <img align="center" alt="nullwell-Monophy" src="https://cdn.discordapp.com/attachments/885241805958938644/1001587867878969414/monophy.gif"/>
+   <img align="center" alt="nullwell-Monophy" src="https://i.imgur.com/q34Tgvw.gif"/>
  </div><br>
 
 - 🔭 Atualmente trabalho como Analista de Sustentação a Sistemas
