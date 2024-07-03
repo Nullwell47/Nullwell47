@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Emanoel Rosa 👋
 
-<br><div>
-   <img align="center" alt="nullwell-Monophy" src="https://i.imgur.com/q34Tgvw.gif"/>
- </div><br>
-
 - 🔭 Atualmente trabalho como Analista de Sustentação a Sistemas
 - 📚 Formado em Ciência da Computação
 - 💻 No momento tenho como foco me tornar Desenvolvedor RPA, utilizando tecnologias como Python, Selenium, BotCity e UiPath
